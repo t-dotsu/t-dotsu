@@ -1,3 +1,6 @@
+<!-- ============================== TOP WAVE ============================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:21262D&height=120&section=header&animation=fadeIn" width="100%" alt="" />
+
 <div align="center">
 
 <!-- ============================== HEADER ============================== -->
@@ -6,7 +9,7 @@
 
 ###### Takafumi&nbsp;Dotsu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&height=42&lines=Engineer+%C2%B7+Designer+%C2%B7+Musician;Building+things+in+my+free+time;Craft+over+clutter." alt="taglines" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=640&height=42&lines=Engineer+%C2%B7+Designer+%C2%B7+Musician;I+build+things+%E2%80%94+screens%2C+sound%2C+everything+between;Craft+over+clutter%2C+made+to+last." alt="taglines" />
 
 <br/>
 
@@ -20,9 +23,9 @@
 
 ## 👋&nbsp;&nbsp;はじめに
 
-フルスタックエンジニア、デザイナー、そして音楽好き。
+コードも、画面も、音も。境界を引かずに "つくる" 人。
 
-開発とデザインを生業にしつつ、空いた時間には思いつくままにプロジェクトをつくっています。"つくる"こと全般 — Web もモバイルもデスクトップも、画面も、映像も音も — が好きです。シンプルで、洗練された、長く使えるものを。
+平日はフルスタックの開発とデザインを生業に。夜と週末は、思いついたものを思いついた形で — Web、モバイル、デスクトップ、ときどき映像や音まで。派手さより、無駄のなさ。多機能より、長く触れられるもの。**Craft over clutter** をいつも手元に置いています。
 
 ここは個人としての制作を置く場所。仕事用のアカウントは [@takafumi-dotsu](https://github.com/takafumi-dotsu) です。
 
@@ -118,8 +121,7 @@
 <img src="https://img.shields.io/badge/Work%20Account-%40takafumi--dotsu-21262D?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="work account" />
 </a>
 
-<br/><br/>
-
-<sub>Designed & crafted by Takafumi Dotsu — <em>Stay hungry, stay foolish.</em></sub>
-
 </div>
+
+<!-- ============================== BOTTOM WAVE ============================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,100:161B22&height=100&section=footer&animation=fadeIn&desc=Stay%20hungry,%20stay%20foolish.&descAlignY=58&descSize=14&fontColor=8B949E" width="100%" alt="" />
